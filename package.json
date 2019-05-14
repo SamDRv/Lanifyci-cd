@@ -1,0 +1,26 @@
+{
+  "name": "lanify07",
+  "version": "1.0.0",
+  "description": "Quick start to LaneJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamDeka28/lanify07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamDeka28/lanify07/issues"
+  },
+  "homepage": "https://github.com/SamDeka28/lanify07#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "lane-js": "^1.0.13",
+    "morgan": "^1.9.1"
+  }
+}
